@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-07-24T11:06:23.695Z'
+datePublished: '2016-07-24T15:23:17.089Z'
 sourcePath: _posts/2016-07-24-niekanju-says-hi.md
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d55f109-db78-4bd5-a158-877b93be2339.jpg
 author: []
 via: {}
-dateModified: '2016-07-24T11:06:22.409Z'
+dateModified: '2016-07-24T15:23:16.554Z'
 title: niekanju says “hi”
 publisher: {}
 description: >-
@@ -15,10 +13,9 @@ description: >-
   out, there have been swathes of people who got into photography (myself
   included) but I always felt that digital didn’t have the same kind of feel
   that film does.
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: niekanju-says-hi/index.html
 _type: MediaObject
 
 ---
