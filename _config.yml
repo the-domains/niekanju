@@ -1,14 +1,14 @@
 layout_spectrum: 0.4353124788030982
-typography_spectrum: 0.7186613120138645
+typography_spectrum: 0.14272437198087573
 color:
-  brandStrength: 0.5315562954638153
-  lightness: 0.1375407907180488
-  saturation: 0.7664582631550729
-  rhythmicContrast: 0.1128507184330374
+  brandStrength: 0.22313440404832363
+  lightness: 0.06004549516364932
+  saturation: 0.6427296397741884
+  rhythmicContrast: 0.1761494893580675
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
 name: niekanju
