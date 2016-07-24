@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[niekanju]]></title>
+        <description><![CDATA[niekanju]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Jul 2016 11:06:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[niekanju says “hi”]]></title>
+            <description><![CDATA[<article><h1>niekanju says “hi”</h1><p>Hi, I’m niekanju. I’m an analogue photographer (yes, we still exist) meaning that I shoot with 35mm film that you might have never heard of before, or you remember using it as a child with your parents. Since digital photography came out, there have been swathes of people who got into photography (myself included) but I always felt that digital didn’t have the same kind of feel that film does.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d55f109-db78-4bd5-a158-877b93be2339.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d55f109-db78-4bd5-a158-877b93be2339.jpg</link>
+            <guid isPermaLink="false">20f59280-45c6-46eb-b4e0-c847000b5754</guid>
+            <pubDate>Sun, 24 Jul 2016 11:06:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
