@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[niekanju]]></title>
         <description><![CDATA[niekanju]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/niekanju/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 11:06:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jul 2016 11:15:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/niekanju/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1c16dd7-d699-4746-9061-2784f8eb4e13.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1c16dd7-d699-4746-9061-2784f8eb4e13.jpg</link>
+            <guid isPermaLink="false">c2097cf6-cbec-4400-a6ef-a376cdc60163</guid>
+            <pubDate>Sun, 24 Jul 2016 11:15:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[niekanju says “hi”]]></title>
             <description><![CDATA[<article><h1>niekanju says “hi”</h1><p>Hi, I’m niekanju. I’m an analogue photographer (yes, we still exist) meaning that I shoot with 35mm film that you might have never heard of before, or you remember using it as a child with your parents. Since digital photography came out, there have been swathes of people who got into photography (myself included) but I always felt that digital didn’t have the same kind of feel that film does.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d55f109-db78-4bd5-a158-877b93be2339.jpg"></article>]]></description>
