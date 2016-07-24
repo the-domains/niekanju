@@ -13,11 +13,11 @@ color:
     - '#EEEFF7'
 name: niekanju
 navigation:
-  - id: 'mailto:niekanju@gmail.com'
-    url: 'mailto:niekanju@gmail.com'
-    name: email me
-    type: external
   - id: 20f59280-45c6-46eb-b4e0-c847000b5754
     url: 2016-07-24-niekanju-says-hi.html
     name: me
     type: content
+  - id: 'mailto:niekanju@gmail.com'
+    url: 'mailto:niekanju@gmail.com'
+    name: email me
+    type: external
