@@ -17,3 +17,7 @@ navigation:
     url: 2016-07-24-niekanju-says-hi.html
     name: me
     type: content
+  - id: 'mailto:niekanju@gmail.com'
+    url: 'mailto:niekanju@gmail.com'
+    name: email me
+    type: external
