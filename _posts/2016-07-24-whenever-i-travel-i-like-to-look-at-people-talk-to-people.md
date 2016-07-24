@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-24T11:51:44.832Z'
+datePublished: '2016-07-24T11:52:40.889Z'
 sourcePath: _posts/2016-07-24-whenever-i-travel-i-like-to-look-at-people-talk-to-people.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1c16dd7-d699-4746-9061-2784f8eb4e13.jpg
 author: []
 via: {}
-dateModified: '2016-07-24T11:51:44.327Z'
+dateModified: '2016-07-24T11:52:40.441Z'
 title: Crowded Solitude
 publisher: {}
 description: >-
@@ -21,6 +21,7 @@ _type: MediaObject
 
 ---
 # Crowded Solitude
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee456b40-1906-46fb-a7df-bdf2364024ee.jpg)
 
 Whenever I travel, I like to look at people, talk to people, and be with people, even if I don't know them. There's always a serenity to looking at people who are complete strangers, but on their side, there's an anxiety if they know you're going to take a picture of them.
 
