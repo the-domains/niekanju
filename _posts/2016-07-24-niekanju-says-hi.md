@@ -1,11 +1,7 @@
 ---
-datePublished: '2016-07-24T15:36:00.451Z'
-sourcePath: _posts/2016-07-24-niekanju-says-hi.md
 author: []
-via: {}
-dateModified: '2016-07-24T15:36:00.160Z'
-title: niekanju says “hi”
-publisher: {}
+dateModified: '2016-07-24T15:43:22.193Z'
+datePublished: '2016-07-24T15:43:30.298Z'
 description: >-
   Hi, I’m niekanju. I’m an analogue photographer (yes, we still exist) meaning
   that I shoot with 35mm film that you might have never heard of before, or you
@@ -14,7 +10,11 @@ description: >-
   included) but I always felt that digital didn’t have the same kind of feel
   that film does.
 hasPage: true
+publisher: {}
+title: niekanju says “hi”
+via: {}
 starred: false
+sourcePath: _posts/2016-07-24-niekanju-says-hi.md
 url: niekanju-says-hi/index.html
 _type: MediaObject
 
