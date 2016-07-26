@@ -1,19 +1,19 @@
 ---
+datePublished: '2016-07-26T13:22:20.722Z'
+sourcePath: _posts/2016-07-24-crowded-solitude.md
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4a26db6-de1a-4a20-bf3b-85d0dc61692f.jpg
 author: []
-dateModified: '2016-07-24T11:59:33.420Z'
-datePublished: '2016-07-24T11:59:44.686Z'
+via: {}
+dateModified: '2016-07-26T13:22:20.155Z'
+title: Crowded Solitude
+publisher: {}
 description: >-
   Whenever I travel, I like to look at people, talk to people, and be with
   people, even if I don’t know them. There’s always a serenity to looking at
   people who are complete strangers, but on their side, there’s an anxiety if
   they know you’re going to take a picture of them.
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4a26db6-de1a-4a20-bf3b-85d0dc61692f.jpg
-publisher: {}
-title: Crowded Solitude
-via: {}
 starred: false
-sourcePath: _posts/2016-07-24-crowded-solitude.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -21,7 +21,7 @@ _type: MediaObject
 
 ---
 # Crowded Solitude
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e85e66be-4792-4864-8c9d-7bc57fb963b6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1682082d-ea56-46ba-8142-3ea07486c857.jpg)
 
 Whenever I travel, I like to look at people, talk to people, and be with people, even if I don't know them. There's always a serenity to looking at people who are complete strangers, but on their side, there's an anxiety if they know you're going to take a picture of them.
 
